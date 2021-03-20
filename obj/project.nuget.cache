@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ah+wkNEZlgCzIlYPdm01K8ycbBkna9B9/EYJ8D88IkjhIfcnHna2FCK44zHw+g1Mh8GLbiBUHLR2iyo4xpJDUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Klover\\Desktop\\WinLogsParser\\WinLogsParser\\WinLogsParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Klover\\.nuget\\packages\\npgsql\\5.0.3\\npgsql.5.0.3.nupkg.sha512",
+    "C:\\Users\\Klover\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "C:\\Users\\Klover\\.nuget\\packages\\system.windows.interactivity.wpf\\2.0.20525\\system.windows.interactivity.wpf.2.0.20525.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"System.Windows.Interactivity.WPF 2.0.20525\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net5.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "System.Windows.Interactivity.WPF",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}
